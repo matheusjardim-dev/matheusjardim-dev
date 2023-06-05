@@ -1,4 +1,6 @@
 ## Olá, me chamo Matheus, estudante e desenvolvedor!
+- Técnico em Desenvovimento de Sistemas.
+- Cursando Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/matheusjardim-dev">
