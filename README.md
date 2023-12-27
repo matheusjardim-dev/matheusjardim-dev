@@ -1,4 +1,4 @@
-## Olá, me chamo Matheus, estudante e desenvolvedor!
+## Olá, me chamo Matheus, estudante e desenvolvedor back-end!
 - Técnico em Desenvovimento de Sistemas.
 - Cursando Análise e Desenvolvimento de Sistemas.
 
